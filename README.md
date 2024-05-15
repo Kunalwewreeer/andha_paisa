@@ -1,4 +1,4 @@
-# andha-paisa
+# andha_paisa
 A repository aimed to convert the dream of live deployement into a reality (to yolo away our life savings lol). 
 This repository contains the resources and code to help you to collaboratively build a comprehensive automated trading system, and to assist us in testing as many ideas as possible proposed by the participants in this project.
 
