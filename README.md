@@ -32,4 +32,6 @@ This repository contains the resources and code to help you to collaboratively b
    python scripts/main.py
    ```
 2. Check the docs/ folder for detailed tutorials and examples.
+
+3. The project will be run in stages. stage_2 and stage_3 code will only be visible after the tasks in previous stages are accomplished.
    
