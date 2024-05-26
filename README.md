@@ -22,16 +22,15 @@ This repository contains the resources and code to help you to collaboratively b
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   Install the dependencies based on the libraries used in the code.
 
 ### Running the Project
-1. To start, run the main script:
-   ```bash
-   python scripts/main.py
-   ```
-2. Check the docs/ folder for detailed tutorials and examples.
 
-3. The project will be run in stages. stage_2 and stage_3 code will only be visible after the tasks in previous stages are accomplished.
+The project will be run in stages. stage_2 and stage_3 code will only be visible after the tasks in previous stages are accomplished.
+
+####Stage 0:
+For the first task, we have made public the assignment for basic knowledge of the financial world. The assignment is not based on the deep financial jargons, but enough of what is actually required to gain a conceptual understanding.
+For the second task, do read the readme file in the corresponding folder.
+
+
    
