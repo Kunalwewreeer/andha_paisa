@@ -28,7 +28,7 @@ This repository contains the resources and code to help you to collaboratively b
 
 The project will be run in stages. stage_2 and stage_3 code will only be visible after the tasks in previous stages are accomplished.
 
-####Stage 0:
+#### Stage 0:
 For the first task, we have made public the assignment for basic knowledge of the financial world. The assignment is not based on the deep financial jargons, but enough of what is actually required to gain a conceptual understanding.
 For the second task, do read the readme file in the corresponding folder.
 
