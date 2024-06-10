@@ -33,5 +33,6 @@ The project will be run in stages. stage_2 and stage_3 code will only be visible
 For the first task, we have made public the assignment for basic knowledge of the financial world. The assignment is not based on the deep financial jargons, but enough of what is actually required to gain a conceptual understanding.
 For the second task, do read the readme file in the corresponding folder.
 
-
+#### Stage 1:
+Now let's confuse ourselves with regression and classification. This is a step for further complicated machine learning models, hence an understanding is important to relate the learning with the application into the markets. Thus complete the assignments in the directory task3.
    
