@@ -1,0 +1,11 @@
+For charting and technical analysis:
+tradingview.com
+For basic algorithmic trading knowledge:
+Book : ernestpchan_main in resources
+For knowledge about the markets:
+https://zerodha.com/varsity/
+https://www.investopedia.com/
+For stock market data:
+1. yfinance library
+2. upstox API
+3. screener.com

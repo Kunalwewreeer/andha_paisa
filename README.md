@@ -3,7 +3,8 @@ A repository aimed to convert the dream of live deployement into a reality (to y
 This repository contains the resources and code to help you to collaboratively build a comprehensive automated trading system, and to assist us in testing as many ideas as possible proposed by the participants in this project.
 
 ## Getting Started
-
+### YouTube Overview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vE0uM_9FOtQ&t=1481s/0.jpg)](https://www.youtube.com/watch?v=vE0uM_9FOtQ&t=1481s)
 ### Prerequisites
 
 - Python 3.8 or higher
