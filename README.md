@@ -4,7 +4,7 @@ This repository contains the resources and code to help you to collaboratively b
 
 ## Getting Started
 ### YouTube Overview
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vE0uM_9FOtQ&t=1481s/0.jpg)](https://www.youtube.com/watch?v=vE0uM_9FOtQ&t=1481s)
+[![Link to the Youtube Playlist](https://img.youtube.com/vi/vE0uM_9FOtQ&t=1481s/0.jpg)](https://www.youtube.com/watch?v=vE0uM_9FOtQ&t=1481s)
 ### Prerequisites
 
 - Python 3.8 or higher
